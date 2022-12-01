@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps Learning CI-CD docker-ansible-</h1>
+    <h1>New user Register for DevOps Learning CI-CD docker-ansible-final</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
 
@@ -33,7 +33,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning final deployment latest deploy final pipeline final product </h1>
+   <h1> Thankyou, Happy Learning final deployment latest deploy final pipeline final producift </h1>
 
   
 </form>
