@@ -33,7 +33,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning final deployment lates t </h1>
+   <h1> Thankyou, Happy Learning final deployment latest deploy </h1>
 
   
 </form>
