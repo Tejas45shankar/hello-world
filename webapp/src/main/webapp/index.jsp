@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning CI-CD final-product pipeline</h1>
-    <p>Please fill in this form to create an account-tomcat.</p>
+    <p>Please fill in this form to create an account-tomcat-final.</p>
     <hr>
 
 
