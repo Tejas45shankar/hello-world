@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps Learning CI-CD docker-ansible-fina-finall</h1>
+    <h1>New user Register for DevOps Learning CI-CD</h1>
     <p>Please fill in this form to create an account-tomcat.</p>
     <hr>
 
